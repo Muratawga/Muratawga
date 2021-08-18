@@ -4,7 +4,7 @@ Meu nome é Felipe, sou estudante de informática cursando no 3º ano do ensino 
 📊 Projetos e Experiência: <br>
 Meu principal e maior projeto atualmente são trabalhos como Freelancer juntamente com uma equipe chamada <a href="https://phogtech.vercel.app">Phog Tech</a>, onde realizamos desenvolvimento web. Além disso, possuo um portfólio a partir de projetos do colégio, que se iniciam desde HTML até PHP e Java. <br><br>
 🌱 O que pretendo aprender?: <br>
-Atualmente, pretendo aprender a linguagem Python, já que a vejo como uma linguagem chamativa e importante para o meu desenvolvimento como programador. Quero aprender mais sobre JavaScript também.
+Atualmente, pretendo aprender a linguagem Python, já que a vejo como uma linguagem chamativa e importante para o meu desenvolvimento como programador. Quero aprender mais sobre JavaScript também. <br><br>
 📍 Links: <br>
 Site da minha equipe: https://phogtech.vercel.app <br>
 Perfil no Vintepila: https://www.vintepila.com.br/user-profile/NTI4NDMwNjU4OTU=/ <br>
