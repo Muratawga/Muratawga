@@ -5,7 +5,8 @@ Meu nome é Felipe, sou estudante de informática! cursei o ensino médio no Col
 Atualmente trabalho como Jovem Aprendiz em uma empresa chama Global Hitss da América, onde programo em Backend utilizando PHP e Laravel.<br>
 Tambem ja realizei trabalhos como Freelancer juntamente com uma equipe chamada <a href="https://phogtech.vercel.app">Phog Tech</a>, onde realizamos desenvolvimento web. Além disso, possuo um portfólio a partir de projetos do colégio, que se iniciam desde HTML até PHP e Java. <br><br>
 🌱 O que pretendo aprender?: <br>
-Atualmente, estou aprendendo sobre Laravel, um derivado do PHP que utilizo na empresa onde trabalho. Quero aprender mais sobre JavaScript também, já que a vejo como uma linguagem chamativa e importante para o meu desenvolvimento como programador. <br><br>
+Atualmente, estou aprendendo sobre Laravel, um derivado do PHP que utilizo na empresa onde trabalho. Quero aprender mais sobre JavaScript também, já que a vejo como uma linguagem chamativa e importante para o meu desenvolvimento como programador. <br>
+Além disso, tenho muita vontade em aprimorar meu conhecimento em design, tanto web quanto em thinking e UX!<br><br>
 📍 Links: <br>
 LinkedIn: https://www.linkedin.com/in/felipe-akio-cerqueira-murata-064b64212/ <br>
 Portfólio: ___
