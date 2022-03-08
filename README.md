@@ -10,3 +10,10 @@ Além disso, tenho muita vontade em aprimorar meu conhecimento em design, tanto 
 📍 Links: <br>
 LinkedIn: https://www.linkedin.com/in/felipe-akio-cerqueira-murata-064b64212/ <br>
 Portfólio: ___
+
+<div align="center">
+  <a href="https://github.com/Muratawga">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muratawga&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img align="right" alt="Murata-pic" height="180" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/61884450?v=4">
+    </div>
+  
