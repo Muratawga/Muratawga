@@ -13,6 +13,6 @@ Portfólio: ___
 <div align="center">
   <a href="https://github.com/Muratawga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muratawga&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img align="" alt="Murata-pic" height="180" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/61884450?v=4">
+    <img align="" alt="Murata-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/950988984417386556/950989182912823337/studio_ghibi_4.gif">
     </div>
   
