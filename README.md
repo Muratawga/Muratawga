@@ -15,4 +15,15 @@ Portfólio: ___
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muratawga&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
     <img align="" alt="Murata-pic" height="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/950988984417386556/950989182912823337/studio_ghibi_4.gif">
     </div>
+  <div align="center">
+  </br> </br>
+  <code><img height= "20"src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></code>
+</div>
   
