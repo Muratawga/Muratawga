@@ -4,7 +4,7 @@ Meu nome é Felipe, sou estudante de informática! cursei o ensino médio no Col
 ##
 🧪 **Projetos e Experiência:** <br>
 Atualmente trabalho como Jovem Aprendiz em uma empresa chamada <a href="https://jobs.kenoby.com/globalhitss">Global Hitss da América</a>, onde programo em Backend utilizando PHP e Laravel.<br>
-Também já realizei trabalhos como Freelancer juntamente com uma equipe chamada <a href="https://phogtech.vercel.app">Phog Tech</a>, onde realizávamos desenvolvimento web. Além disso, possuo um portfólio a partir de projetos do colégio, que se iniciam desde HTML até Projetos no Android Studio em Java.
+Também já realizei trabalhos como Freelancer juntamente com uma equipe chamada <a href="https://phogtech.vercel.app">Phog Tech</a>, onde realizávamos desenvolvimento web. Além disso, possuo um portfólio a partir de projetos do colégio, que se iniciam desde HTML até Projetos no Android Studio em Java.<br>
 Eu atualmente estou estudando e praticando projetos de UX Design, já que minha meta é se tornar um UX Designer no futuro! 
 ##
 📍 **Links:** <br>
