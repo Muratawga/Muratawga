@@ -4,7 +4,8 @@ Meu nome é Felipe, sou estudante de informática! cursei o ensino médio no Col
 ##
 🧪 **Projetos e Experiência:** <br>
 Atualmente trabalho como Jovem Aprendiz em uma empresa chamada Global Hitss da América, onde programo em Backend utilizando PHP e Laravel.<br>
-Também já realizei trabalhos como Freelancer juntamente com uma equipe chamada <a href="https://phogtech.vercel.app">Phog Tech</a>, onde realizávamos desenvolvimento web. Além disso, possuo um portfólio a partir de projetos do colégio, que se iniciam desde HTML até Projetos no Android Studio em Java. 
+Também já realizei trabalhos como Freelancer juntamente com uma equipe chamada <a href="https://phogtech.vercel.app">Phog Tech</a>, onde realizávamos desenvolvimento web. Além disso, possuo um portfólio a partir de projetos do colégio, que se iniciam desde HTML até Projetos no Android Studio em Java.
+Eu atualmente estou estudando e praticando projetos de UX Design, já que minha meta é se tornar um UX Designer no futuro! 
 ##
 📍 **Links:** <br>
 🕵️‍♂️ <a href="https://www.linkedin.com/in/felipe-akio-cerqueira-murata-064b64212/">LinkedIn</a> <br> 
