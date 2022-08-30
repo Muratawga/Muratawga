@@ -13,8 +13,8 @@ Eu atualmente estou estudando e praticando projetos de UX Design, já que minha 
 
 <div align="center">
   <a href="https://github.com/Muratawga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muratawga&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img align="" alt="Murata-pic" height="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/950988984417386556/950989182912823337/studio_ghibi_4.gif">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muratawga&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+    <img align="" alt="Murata-pic" height="180" style="border-radius:50px;" src="https://media.giphy.com/media/KXECBV0GkdCX6/giphy.gif">
     </div>
   <div align="center">
   </br> </br>
