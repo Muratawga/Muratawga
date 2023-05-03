@@ -9,7 +9,7 @@ Eu atualmente estou estudando e praticando projetos de UX Design, já que minha 
 ##
 📍 **Links:** <br>
 🕵️‍♂️ <a href="https://www.linkedin.com/in/felipe-akio-cerqueira-murata-064b64212/">LinkedIn</a> <br> 
-👨🏽‍💻 <a href="https://sites.google.com/view/felipemurata/página-inicial?authuser=0">Portfólio</a> 
+👨🏽‍💻 <a href="https://sites.google.com/view/felipemurata/homepage">Portfólio</a> 
 
 <div align="center">
   <a href="https://github.com/Muratawga">
