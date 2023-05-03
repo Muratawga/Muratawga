@@ -1,13 +1,16 @@
 ###  💡 Sobre mim e o que eu faço como Developer.
 🤔 **Sobre mim:** <br>
-Meu nome é Felipe, sou estudante de informática! cursei o ensino médio no Colégio Eniac situado em Guarulhos. Estudo principalmente sobre Frontend e venho aprendendo algumas linguagens desde o meu início da programação no final de 2019/começo de 2020. Possuo conhecimento em PHP, HTML, CSS, um pouco de Java, JS e Laravel, pretendendo aprender cada vez mais! Sou um entusiasta de Periféricos, além de gostar muito de videogames, música, design e UX.
+Meu nome é Felipe, sou um UX/UI Designer Jr em início de carreira! Iniciei meus estudos em Agosto de 2022 com a ajuda do CIEE em parceria com o Coursera realizando o Curso de UX Design do Grow With Google, desde então, venho aperfeiçoando meus conhecimentos sobre UX e UI e ganhando cada vez mais interesse na área!
+Antes de me tornar UX/UI Designer, fui desenvolvedor FullStack, operando com linguagens como HTML5, CSS3, JavaScript, Laravel e SeleniumIDE. Venho estudando tecnologia desde 2019 quando era estudante de TI cursando o Ensino Médio Técnico na Escola de Tecnologia Colégio Eniac.
+Atualmente faço Curso superior de Análise e Desenvolvimento de Sistemas na Faculdade Eniac, estou em meu último ano de faculdade e pretendo me aperfeiçoar em outra área mais próxima ao UI/UX Design.
 ##
 🧪 **Projetos e Experiência:** <br>
-Atualmente trabalho como Jovem Aprendiz em uma empresa chamada <a href="https://jobs.kenoby.com/globalhitss">Global Hitss da América</a>, onde programo em Backend utilizando PHP e Laravel.<br>
+Atuei como Jovem Aprendiz em uma empresa chamada <a href="https://jobs.kenoby.com/globalhitss">Global Hitss da América</a>, onde programei em Backend utilizando PHP e Laravel, além de utilizar SeleniumIDE durante várias partes de meu desenvolvimento na empresa, Operando como QA e Desenvolvedor.<br>
 Também já realizei trabalhos como Freelancer juntamente com uma equipe chamada <a href="https://phogtech.vercel.app">Phog Tech</a>, onde realizávamos desenvolvimento web. Além disso, possuo um portfólio a partir de projetos do colégio, que se iniciam desde HTML até Projetos no Android Studio em Java.<br>
 Eu atualmente estou estudando e praticando projetos de UX Design, já que minha meta é se tornar um UX Designer no futuro! 
 ##
 📍 **Links:** <br>
+🌐 **Você pode acessar meu Portfólio profissional e se conectar no Linkedin comigo por estes links abaixo!** <br>
 🕵️‍♂️ <a href="https://www.linkedin.com/in/felipe-akio-cerqueira-murata-064b64212/">LinkedIn</a> <br> 
 👨🏽‍💻 <a href="https://sites.google.com/view/felipemurata/homepage">Portfólio</a> 
 
