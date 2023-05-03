@@ -1,4 +1,4 @@
-###  💡 Sobre mim e o que eu faço como Developer.
+###  💡 **Sobre mim e minha carreira profissional!**
 🤔 **Sobre mim:** <br>
 Meu nome é Felipe, sou um UX/UI Designer Jr em início de carreira! Iniciei meus estudos em Agosto de 2022 com a ajuda do CIEE em parceria com o Coursera realizando o Curso de UX Design do Grow With Google, desde então, venho aperfeiçoando meus conhecimentos sobre UX e UI e ganhando cada vez mais interesse na área!
 Antes de me tornar UX/UI Designer, fui desenvolvedor FullStack, operando com linguagens como HTML5, CSS3, JavaScript, Laravel e SeleniumIDE. Venho estudando tecnologia desde 2019 quando era estudante de TI cursando o Ensino Médio Técnico na Escola de Tecnologia Colégio Eniac.
