@@ -7,19 +7,25 @@ Atualmente faço Curso superior de Análise e Desenvolvimento de Sistemas no Cen
 🧪 **Projetos e Experiência:** <br>
 Atuei como Jovem Aprendiz em uma empresa chamada <a href="https://jobs.kenoby.com/globalhitss">Global Hitss da América</a>, onde programei em Backend utilizando PHP e Laravel, além de utilizar SeleniumIDE durante várias partes de meu desenvolvimento na empresa, Operando como QA e Desenvolvedor.<br>
 Também já realizei trabalhos como Freelancer juntamente com uma equipe chamada <a href="https://phogtech.vercel.app">Phog Tech</a>, onde realizávamos desenvolvimento web. Além disso, possuo um portfólio a partir de projetos do colégio, que se iniciam desde HTML até Projetos no Android Studio em Java.<br>
-Eu atualmente estou estudando e praticando projetos de UX Design, já que minha meta é se tornar um UX Designer no futuro! 
+Eu atualmente estou estudando e praticando projetos de UX Design.
 ##
-📍 **Links:** <br>
-🌐 **Você pode acessar meu Portfólio profissional e se conectar no Linkedin comigo por estes links abaixo!** <br>
-🕵️‍♂️ <a href="https://www.linkedin.com/in/felipe-akio-cerqueira-murata-064b64212/">LinkedIn</a> <br> 
-👨🏽‍💻 <a href="https://sites.google.com/view/felipemurata/homepage">Portfólio</a> 
 
-  <div align="center">
-  </br> </br>
-<code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/Selenium-0A319D?style=for-the-badge&logo=Selenium&logoColor=white"></code>
-</div>
-  
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="left">
+  💌 Entre em contato:
+</p>
+<p align="left">
+  <a href="mailto:felipe.murata10@gmail.com?Subject=Visitei%20seu%20perfil%20no%20GitHub%21" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=felipe.murata10@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/felipe-murata/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-murata/" /></a>
+
+  👨🏽‍💻 <a href="https://sites.google.com/view/felipemurata/homepage">**Meu Portfólio**</a> 
+
+</p>  
