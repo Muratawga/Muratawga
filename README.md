@@ -1,8 +1,7 @@
 ###  💡 **Sobre mim e minha carreira profissional!**
 🤔 **Sobre mim:** <br>
-Meu nome é Felipe, sou um UX/UI Designer Jr em início de carreira! Iniciei meus estudos em Agosto de 2022 com a ajuda do CIEE em parceria com o Coursera realizando o Curso de UX Design do Grow With Google, desde então, venho aperfeiçoando meus conhecimentos sobre UX e UI e ganhando cada vez mais interesse na área!
-Antes de me tornar UX/UI Designer, fui desenvolvedor FullStack, operando com linguagens como HTML5, CSS3, JavaScript, Laravel e SeleniumIDE. Venho estudando tecnologia desde 2019 quando era estudante de TI cursando o Ensino Médio Técnico na Escola de Tecnologia Colégio Eniac.
-Atualmente faço Curso superior de Análise e Desenvolvimento de Sistemas no Centro Universitário Eniac, estou em meu último ano de faculdade e pretendo me aperfeiçoar em outra área mais próxima ao UI/UX Design.
+Meu nome é Felipe e sou um **UX Designer Júnior**. Desde que dei meus primeiros passos em Agosto de 2022, onde realizei o Curso de **UX Design do Grow With Google**, minha paixão por criar experiências incríveis para os usuários só tem aumentado. Com um olhar focado no usuário, busco **criar interfaces intuitivas e agradáveis, otimizando a interação entre as pessoas e a tecnologia**. Meu objetivo é **proporcionar experiências memoráveis, que superem as expectativas e atendam às necessidades dos usuários.** <br>
+Antes de me dedicar ao mundo do design, explorei o campo do desenvolvimento, trabalhando com linguagens como HTML, CSS, JavaScript, Laravel e SeleniumIDE. Essa experiência prévia como desenvolvedor me proporcionou uma compreensão valiosa sobre a importância da integração perfeita entre design e funcionalidade.
 ##
 🧪 **Projetos e Experiência:** <br>
 Atuei como Jovem Aprendiz em uma empresa chamada <a href="https://jobs.kenoby.com/globalhitss">Global Hitss da América</a>, onde programei em Backend utilizando PHP e Laravel, além de utilizar SeleniumIDE durante várias partes de meu desenvolvimento na empresa, Operando como QA e Desenvolvedor.<br>
@@ -10,11 +9,15 @@ Também já realizei trabalhos como Freelancer juntamente com uma equipe chamada
 Eu atualmente estou estudando e praticando projetos de UX Design.
 ##
 
-**Ferramentas de Desenvolvimento**
+**Conhecimento Técnico**
 
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+  ![Notion](https://img.shields.io/badge/notion-%23121011.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Miro](https://img.shields.io/badge/miro-%23123.svg?style=for-the-badge&logo=miro&logoColor=FFD02F)
+  ![Maze](https://img.shields.io/badge/maze-%230056D2.svg?style=for-the-badge&logo=maze&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="left">
   💌 Entre em contato:
@@ -26,6 +29,6 @@ Eu atualmente estou estudando e praticando projetos de UX Design.
   <a href="https://www.linkedin.com/in/felipe-murata/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-murata/" /></a>
 
-  👨🏽‍💻 <a href="https://sites.google.com/view/felipemurata/homepage">**Meu Portfólio**</a> 
-
+  <a href="https://sites.google.com/view/felipemurata/homepage" alt="Meu Portfólio">
+  <img src="https://img.shields.io/badge/-website-000000?style=flat-square&logo=About.me&logoColor=white&link=https://sites.google.com/view/felipemurata/homepage" /></a>
 </p>  
