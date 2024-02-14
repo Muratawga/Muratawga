@@ -7,6 +7,7 @@
   ![Maze](https://img.shields.io/badge/maze-%230056D2.svg?style=for-the-badge&logo=maze&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/-selenium-%231572B6?style=for-the-badge&logo=selenium&logoColor=white)
 
 <p align="left">
   💌 Reach me at:
